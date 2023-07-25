@@ -1,0 +1,10 @@
+* cl-mathstats
+
+An unordered collection of mathematical routines
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gwkkwg/cl-mathstats.git   |
+| commit  | 6c7b19a  |
+| systems | cl-mathstats |
+|---------+-------------------------------------------|
+
